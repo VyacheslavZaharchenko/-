@@ -85,7 +85,7 @@
 }
 /* ------------- Main Styles ------------- */
 body {
-	color: #bdc3c7;
+	color: #a9bdc9;
 	font-size: 12px;
 	padding: 0;
 	font-family: 'Open Sans', sans-serif;
@@ -170,16 +170,16 @@ img, img.responsive {
 	font-style: italic;
 }
 .color-greenalt {
-	color: #de0d64;
+	color: #de0b63;
 }
 .color-grey {
-	color: #7f8c8d;
+	color: #808b8c;
 }
 .color-white {
 	color: #FFFFFF;
 }
 .color-blue {
-	color: #c70e5b;
+	color: #c7105c;
 }
 .pageloader { 
 	background: url(../images/loader.gif) center center no-repeat #fff;  
@@ -190,15 +190,15 @@ img, img.responsive {
     z-index: 99999;	
 }
 /* ------------- Section Background ------------- */
-.header-section { background-color:#3006187b; }
+.header-section { background-color:#3005187b; }
 .features-section  { background-color:#ecf0f1; }
 .reviews-section { background-color:#ffffff; }
-.app-services-section { background: linear-gradient(#5b1f29, #4a1824,#0e0e0e); } блок с ценами;
+.app-services-section { background: linear-gradient(#5b1f29, #4a1824, #0e0e0e); }
 .app-screen-section { background-color:#ecf0f1; }
 .pricing-section { background-color:#ffffff; }
 .video-section { background-color:#2c3e50; }
 .download-section { background-color:#ecf0f1; }
-.contact-section { background: url(../images/ff.jpg) center center repeat #fff; } контакты
+.contact-section { background: url(../images/ff.jpg) center center repeat #fff; }
 
 .section-padding {
 	padding: 100px 0;
@@ -210,7 +210,7 @@ img, img.responsive {
 	color: #fff;
 }
 .gk-twitter:hover, .gk-pinterest:focus, .gk-pinterest:active {
-	background: #ff0303;
+	background: #fa0505;
 	color: #fff;
 }
 .gk-twitter:hover, .gk-youtube:focus, .gk-youtube:active {
